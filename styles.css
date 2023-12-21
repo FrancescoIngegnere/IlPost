@@ -1,0 +1,122 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+#containerNav{
+    border-bottom: 1px solid gray;
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    line-height: 50px;
+    padding: 0 15vw;
+    font-size: 15px;
+    z-index: 2;
+}
+
+.navMenuR{
+    padding-left: 30px;
+}
+
+.navMenuL{
+    padding-right: 30px;
+}
+
+.navBarRight{
+    position: absolute;
+    right: 15vw;
+}
+
+.tastoAbbonamento{
+    background-color: rgb(210, 210, 81);
+    padding: 10px 30px;
+    border-radius: 2px;
+}
+
+#container{
+    padding: 8vh 15vw 0 15vw;
+
+}
+
+#logo{
+    width: 25%;
+    padding: 0px 15px 0 15px;
+    float: left;
+
+}
+
+header nav{
+    width: 75%;
+    font-size: 70%;
+    float: left;
+    padding-top: 25px;
+}
+
+.navSectionUp{
+    padding: 0 0 15px 0;
+    border-bottom: 1px solid gray;
+    font-weight: 500;
+}
+
+.navSectionDown{
+    padding: 5px 0 15px 0;
+}
+
+.navSectionDown form{
+    display: inline-block;
+    position: absolute;
+    right: 15vw;
+}
+
+.tastosocial{
+    padding: 2px;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+
+.twitter{
+    background-color: #ffa07a;
+}
+
+.facebook{
+    background-color: #3b5998;
+}
+
+.instagram{
+    background-color: #3f729b;
+}
+
+.telegram{
+    background-color: #e0cfb1;
+}
+
+form input, button{
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+.sectionTop{
+    border-bottom: 1px solid gray;
+    margin-top: 80px;
+    padding: 20px 0 10px 0;
+}
+
+.sectionLeft{
+    width: 50%;
+    border-right: 1px solid gray;
+    padding-right: 20px;
+}
+
+.articoloGrande img{
+    width: 100%;
+}
+
+/* 
+    | //
+   ( @ @ )
+ooO__(_)__Ooo
+٩(͡๏̯͡๏)۶
+*/
